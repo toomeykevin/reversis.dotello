@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1484819232 source:c:\users\kevin\desktop\cppkevin\projetreversi\case.cpp
+	"Case.hpp"
+
+1484210519 c:\users\kevin\desktop\cppkevin\projetreversi\case.hpp
+	<SFML/Graphics.hpp>
+	<string.h>
+	<iostream>
+
+1484822011 source:c:\users\kevin\desktop\cppkevin\projetreversi\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Grille.hpp"
+
+1484822986 source:c:\users\kevin\desktop\cppkevin\projetreversi\grille.cpp
+	"Grille.hpp"
+	<iostream>
+
+1484809747 c:\users\kevin\desktop\cppkevin\projetreversi\grille.hpp
+	<SFML/Graphics.hpp>
+	<string.h>
+	<iostream>
+	"Case.hpp"
+
